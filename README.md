@@ -1,5 +1,4 @@
-[Screenshoot]: https://raw.githubusercontent.com/j2teamlbh/reactjs-fblive/master/Screenshot.png "Facebook Live"
-
+![Screenshoot](https://raw.githubusercontent.com/j2teamlbh/reactjs-fblive/master/Screenshot.png "Facebook Live")
 ## Tutorial Video
 ### https://www.facebook.com/groups/j2team.community/permalink/952403258425128/
 
