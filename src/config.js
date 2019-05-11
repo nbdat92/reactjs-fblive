@@ -1,7 +1,7 @@
 // Access Token
 export const ACCESS_TOKEN = '';
 
-// Post ID (GroupID/FanpageID/ProfileID_Post ID)
+// Post ID (Group ID/Fanpage ID/Profile ID_Post ID)
 export const POST_ID = '';
 
 // Video Link
